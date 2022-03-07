@@ -7,7 +7,7 @@
       "properties": {
         "name": "Kenora",
         "lower_alt": 0,
-        "upper_alt": 29000,
+        "upper_alt": 28000,
         "specialty": "East Low"
       },
       "geometry": {
@@ -81,7 +81,7 @@
       "properties": {
         "name": "Kenora Extension",
         "lower_alt": 0,
-        "upper_alt": 24000,
+        "upper_alt": 23000,
         "specialty": "East Low"
       },
       "geometry": {
@@ -119,7 +119,7 @@
       "properties": {
         "name": "Marathon",
         "lower_alt": 0,
-        "upper_alt": 29000,
+        "upper_alt": 28000,
         "specialty": "East Low"
       },
       "geometry": {
@@ -237,7 +237,7 @@
       "properties": {
         "name": "Trout Lake",
         "lower_alt": 0,
-        "upper_alt": 29000,
+        "upper_alt": 28000,
         "specialty": "East Low"
       },
       "geometry": {
@@ -367,7 +367,7 @@
       "properties": {
         "name": "Trout Lake Extension",
         "lower_alt": 0,
-        "upper_alt": 24000,
+        "upper_alt": 23000,
         "specialty": "East Low"
       },
       "geometry": {
@@ -481,7 +481,7 @@
       "properties": {
         "name": "Great Plains",
         "lower_alt": 0,
-        "upper_alt": 29000,
+        "upper_alt": 28000,
         "specialty": "West Low"
       },
       "geometry": {
@@ -551,7 +551,7 @@
       "properties": {
         "name": "Winnipeg West",
         "lower_alt": 0,
-        "upper_alt": 29000,
+        "upper_alt": 28000,
         "specialty": "West Low"
       },
       "geometry": {
@@ -593,7 +593,7 @@
       "properties": {
         "name": "Winnipeg East",
         "lower_alt": 0,
-        "upper_alt": 29000,
+        "upper_alt": 28000,
         "specialty": "West Low"
       },
       "geometry": {
@@ -675,7 +675,7 @@
       "properties": {
         "name": "Winnipeg East Extension",
         "lower_alt": 24000,
-        "upper_alt": 29000,
+        "upper_alt": 28000,
         "specialty": "West Low"
       },
       "geometry": {
@@ -713,7 +713,7 @@
       "properties": {
         "name": "Winnipeg East Extension",
         "lower_alt": 24000,
-        "upper_alt": 29000,
+        "upper_alt": 28000,
         "specialty": "West Low"
       },
       "geometry": {
@@ -827,7 +827,7 @@
       "properties": {
         "name": "North Low",
         "lower_alt": 0,
-        "upper_alt": 29000,
+        "upper_alt": 28000,
         "specialty": "North"
       },
       "geometry": {
@@ -905,7 +905,7 @@
       "properties": {
         "name": "La Ronge",
         "lower_alt": 0,
-        "upper_alt": 29000,
+        "upper_alt": 28000,
         "specialty": "North"
       },
       "geometry": {
@@ -1019,7 +1019,7 @@
       "properties": {
         "name": "Waskesiu",
         "lower_alt": 0,
-        "upper_alt": 29000,
+        "upper_alt": 28000,
         "specialty": "North"
       },
       "geometry": {
@@ -1161,7 +1161,7 @@
       "properties": {
         "name": "Armstrong",
         "lower_alt": 29000,
-        "upper_alt": 37000,
+        "upper_alt": 36000,
         "specialty": "East High"
       },
       "geometry": {
@@ -1365,7 +1365,7 @@
       "properties": {
         "name": "Falcon Lake",
         "lower_alt": 29000,
-        "upper_alt": 37000,
+        "upper_alt": 36000,
         "specialty": "East High"
       },
       "geometry": {
@@ -1489,7 +1489,7 @@
       "properties": {
         "name": "Clear Lake",
         "lower_alt": 29000,
-        "upper_alt": 37000,
+        "upper_alt": 36000,
         "specialty": "East High"
       },
       "geometry": {
@@ -1687,7 +1687,7 @@
       "properties": {
         "name": "Lumsden",
         "lower_alt": 29000,
-        "upper_alt": 38000,
+        "upper_alt": 37000,
         "specialty": "West High"
       },
       "geometry": {
@@ -1745,7 +1745,7 @@
       "properties": {
         "name": "Broadview",
         "lower_alt": 29000,
-        "upper_alt": 38000,
+        "upper_alt": 37000,
         "specialty": "West High"
       },
       "geometry": {
